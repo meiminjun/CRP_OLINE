@@ -1,0 +1,805 @@
+{
+	"rows": [
+		{
+			"name": "CapitaLand Group",
+			"rows":[{
+				"name":"CapitaLand Ltd",
+				"middle": "80.86",
+				"right": "+0.48",
+				"detail": {
+					"open": "112.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.70%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaCommercial Trust",
+				"middle": "113.99",
+				"right": "+1.98",
+				"detail": {
+					"open": "123.125",
+					"cap": "1268.58",
+					"high": "14.52",
+					"whigh": "129.05",
+					"low": "112.01",
+					"wlow": "220.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaMall Trust",
+				"middle": "18.33",
+				"right": "-0.33",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaRetail China Trust",
+				"middle": "96.83",
+				"right": "+0.54",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaMalls Malaysia Trust",
+				"middle": "50.86",
+				"right": "+0.21",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Ascott Residence Trust",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			}],			
+		}, {
+			"name": "Singapore Peers",
+			"rows":[{
+				"name":"STI",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "68.58",
+					"high": "114.52",
+					"whigh": "19.75",
+					"low": "112.01",
+					"wlow": "71.51",
+					"vol": "35.72",
+					"avgvol": "52.74",
+					"pe": "17.37",
+					"yield": "12.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"FTSE ST Real Estate Index",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "68.58",
+					"high": "14.52",
+					"whigh": "129.75",
+					"low": "112.01",
+					"wlow": "70.1",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.27",
+					"yield": "1.4%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaLand Ltd",
+				"middle": "3,157.60",
+				"right": "+82.07",
+				"detail": {
+					"open": "2.05",
+					"cap": "668.58",
+					"high": "14.52",
+					"whigh": "119.75",
+					"low": "12.01",
+					"wlow": "170.51",
+					"vol": "203.72",
+					"avgvol": "151.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"City Development Ltd",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "68.58",
+					"high": "1.52",
+					"whigh": "19.75",
+					"low": "113.01",
+					"wlow": "1.51",
+					"vol": "33.72",
+					"avgvol": "31.74",
+					"pe": "17.67",
+					"yield": "11.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Wing Tai Holdings Ltd",
+				"middle": "1.60",
+				"right": "-32.07",
+				"detail": {
+					"open": "1.15",
+					"cap": "48.8",
+					"high": "114.52",
+					"whigh": "219.35",
+					"low": "12.01",
+					"wlow": "7.51",
+					"vol": "3.72",
+					"avgvol": "51.74",
+					"pe": "107.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"UOL Group Ltd",
+				"middle": "27.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "68.58",
+					"high": "14.52",
+					"whigh": "19.75",
+					"low": "11.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Frasers Centrepoint Ltd",
+				"middle": "2,157.60",
+				"right": "+5.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "0.51",
+					"vol": "3.72",
+					"avgvol": "1.74",
+					"pe": "17.7",
+					"yield": "11.3%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Wheelock Properties (S) Ltd",
+				"middle": "507.60",
+				"right": "+5.7",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "139.75",
+					"low": "11.01",
+					"wlow": "0.51",
+					"vol": "3.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"OUE Ltd",
+				"middle": "57.60",
+				"right": "+5.17",
+				"detail": {
+					"open": "1.15",
+					"cap": "608.58",
+					"high": "414.52",
+					"whigh": "119.75",
+					"low": "12.31",
+					"wlow": "70.21",
+					"vol": "23.72",
+					"avgvol": "21.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			}],			
+		}, {
+			"name": "China Peers (Listed in HK)",
+			"rows":[{
+				"name":"China Vanke",
+				"middle": "557.14",
+				"right": "-35.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "66.58",
+					"high": "14.52",
+					"whigh": "219.75",
+					"low": "112.01",
+					"wlow": "7.51",
+					"vol": "3.2",
+					"avgvol": "51.74",
+					"pe": "27.67",
+					"yield": "11.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Henderson Land",
+				"middle": "57.60",
+				"right": "+8.47",
+				"detail": {
+					"open": "1.05",
+					"cap": "68.58",
+					"high": "314.52",
+					"whigh": "119.75",
+					"low": "12.01",
+					"wlow": "71.51",
+					"vol": "33.2",
+					"avgvol": "21.74",
+					"pe": "17.6",
+					"yield": "32.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Sun Hung Kai",
+				"middle": "197.60",
+				"right": "-35.07",
+				"detail": {
+					"open": "1.15",
+					"cap": "8.58",
+					"high": "14.52",
+					"whigh": "19.75",
+					"low": "12.01",
+					"wlow": "10.51",
+					"vol": "32.72",
+					"avgvol": "11.74",
+					"pe": "1.7",
+					"yield": "3.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"China Overseas Land",
+				"middle": "77.60",
+				"right": "+55.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "648.58",
+					"high": "514.52",
+					"whigh": "619.75",
+					"low": "35.01",
+					"wlow": "74.51",
+					"vol": "63.52",
+					"avgvol": "71.74",
+					"pe": "17.37",
+					"yield": "5.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Kerry Property",
+				"middle": "23.31",
+				"right": "+5.07",
+				"detail": {
+					"open": "1.25",
+					"cap": "621.58",
+					"high": "104.52",
+					"whigh": "19.75",
+					"low": "11.01",
+					"wlow": "30.51",
+					"vol": "563.72",
+					"avgvol": "21.74",
+					"pe": "17.37",
+					"yield": "0.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"China Resources Land",
+				"middle": "3.09",
+				"right": "-5.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "8.58",
+					"high": "4.52",
+					"whigh": "9.75",
+					"low": "2.01",
+					"wlow": "0.51",
+					"vol": "3.72",
+					"avgvol": "1.74",
+					"pe": "1.67",
+					"yield": "0.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Country Garden",
+				"middle": "137.60",
+				"right": "-05.37",
+				"detail": {
+					"open": "1.5",
+					"cap": "668.8",
+					"high": "14.52",
+					"whigh": "139.75",
+					"low": "312.01",
+					"wlow": "30.51",
+					"vol": "53.72",
+					"avgvol": "21.74",
+					"pe": "17.07",
+					"yield": "9.7%"
+				},
+				"leaf":"true"
+			}],			
+		}, {
+			"name": "Singapore REITS",
+			"rows":[{
+				"name":"FTSE REITs Index",
+				"middle": "7.60",
+				"right": "+35.07",
+				"detail": {
+					"open": "0.05",
+					"cap": "68.58",
+					"high": "14.52",
+					"whigh": "19.75",
+					"low": "12.01",
+					"wlow": "71.51",
+					"vol": "3.72",
+					"avgvol": "1.74",
+					"pe": "17.07",
+					"yield": "3.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaMall Trust",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.5",
+					"cap": "68.58",
+					"high": "14.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "71.51",
+					"vol": "33.72",
+					"avgvol": "21.74",
+					"pe": "17.3",
+					"yield": "1.0%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaCommercial Trust",
+				"middle": "57.60",
+				"right": "-5.07",
+				"detail": {
+					"open": "3.05",
+					"cap": "608.58",
+					"high": "14.52",
+					"whigh": "19.75",
+					"low": "12.01",
+					"wlow": "0.51",
+					"vol": "33.72",
+					"avgvol": "1.74",
+					"pe": "17.7",
+					"yield": "0.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaRetail China Trust",
+				"middle": "9.60",
+				"right": "-5.07",
+				"detail": {
+					"open": "2.05",
+					"cap": "68.58",
+					"high": "14.52",
+					"whigh": "19.75",
+					"low": "12.01",
+					"wlow": "0.51",
+					"vol": "3.72",
+					"avgvol": "1.74",
+					"pe": "17.7",
+					"yield": "2.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Frasers Commercial Trust",
+				"middle": "97.60",
+				"right": "+5.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "68.58",
+					"high": "194.52",
+					"whigh": "19.75",
+					"low": "122.01",
+					"wlow": "430.51",
+					"vol": "34.42",
+					"avgvol": "51.73",
+					"pe": "17.27",
+					"yield": "0.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Frasers Centrepoint Trust",
+				"middle": "7.6",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "124.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "7.51",
+					"vol": "3.72",
+					"avgvol": "1.74",
+					"pe": "17.7",
+					"yield": "2.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Suntec REIT",
+				"middle": "60.3",
+				"right": "-5.7",
+				"detail": {
+					"open": "1.05",
+					"cap": "68.58",
+					"high": "13.52",
+					"whigh": "119.75",
+					"low": "12.01",
+					"wlow": "70.41",
+					"vol": "33.22",
+					"avgvol": "5.74",
+					"pe": "17.27",
+					"yield": "5.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Mapletree Commercial Trust",
+				"middle": "3.60",
+				"right": "+343.07",
+				"detail": {
+					"open": "64.05",
+					"cap": "3.58",
+					"high": "23.52",
+					"whigh": "64.75",
+					"low": "2.01",
+					"wlow": "72.51",
+					"vol": "32.72",
+					"avgvol": "74.74",
+					"pe": "17.22",
+					"yield": "32.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Mapletree Greater China Commercial Trust",
+				"middle": "322.60",
+				"right": "+825.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668. 58",
+					"high": "43.52",
+					"whigh": "223.75",
+					"low": "54.01",
+					"wlow": "3.51",
+					"vol": "23.72",
+					"avgvol": "22.74",
+					"pe": "17.3",
+					"yield": "43.9%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Ascendas REIT",
+				"middle": "57.60",
+				"right": "+5.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "68.58",
+					"high": "4.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Keppel REIT",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"OUE Commercial Trust",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			}],			
+		}, {
+			"name": "Singapore Hospitality REITS",
+			"rows":[{
+				"name":"FTSE REITs Index",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Ascott Residence Trust",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CDL Hospitality Trust",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"OUE Hospitality Trust",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Far East Hospitality Trust ",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Ascendas Hospitality Trust",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			}],			
+		}, {
+			"name": "Malaysia REITS",
+			"rows":[{
+				"name":"FTSE Bursa Malaysia KLCI",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"CapitaMalls Malaysia Trust",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Sunway REIT",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Pavilion REIT",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"IGB REIT",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			},{
+				"name":"Hektar REIT",
+				"middle": "3,157.60",
+				"right": "+85.07",
+				"detail": {
+					"open": "1.05",
+					"cap": "668.58",
+					"high": "114.52",
+					"whigh": "119.75",
+					"low": "112.01",
+					"wlow": "70.51",
+					"vol": "33.72",
+					"avgvol": "51.74",
+					"pe": "17.67",
+					"yield": "1.7%"
+				},
+				"leaf":"true"
+			}],			
+		}
+	]
+}

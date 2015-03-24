@@ -1,0 +1,32 @@
+{
+	"rows": [
+		{
+			"FeedId": "1",
+			"Image": "resources/images/11.png",
+			"FeedTitle": "SGX welcomes mm2 Asia Ltd to Catalist",
+			"FeedCont": "Singapore Exchange (SGX) today welcomedmm2 Asia today",
+			"EmailId": "1",
+			"ShareId": "1",
+			"Collect": "0",
+			"Download": "0",
+			"Time": "Dec 9 2014",
+			"PDFUrl":"resources/data/pdf01.pdf",
+			"Unread":"1",
+			"Email": "Liu.YiFei@capitaland.com"
+		}, {
+			"FeedId": "1",
+			"Image": "resources/images/22.png",
+			"FeedTitle": "SGX welcomes listing of Gazprom GDR",
+			"FeedCont": "Singapore Exchange (SGX) today welcomed the listing of Gazprom JSC (Gazprom) Global Depository Receipts (GDR) by introduction on the Mainboard.",
+			"EmailId": "1",
+			"ShareId": "1",
+			"Collect": "0",
+			"Download": "1",
+			"Time": "Jun 17 2014",
+			"PDFUrl":"resources/data/pdf02.pdf",
+			"Unread":"0",
+			"Email": "Liu.YiFei@capitaland.com"
+		}
+	],
+	"totalCount": 2 
+}

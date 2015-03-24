@@ -1,0 +1,911 @@
+{
+	"Stocks": [
+		{
+			"GroupName": "CapitaLand",
+			"Stocks": [
+				{
+					"leaf": true,
+					"StockName": "CapitaLand LTD",
+					"StockType": "0",
+					"AskRealTime": "3.49",
+					"ChangeRealTime": "-0.05",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "3.50",
+						"MarketCapitalization": "14.862B",
+						"DaysLow": "3.48",
+						"DaysHigh": "3.51",
+						"YearLow": "2.68",
+						"YearHigh": "3.71",
+						"Volume": "1.434M",
+						"AverageDailyVolume": "9.307M",
+						"PERatio": "13.67",
+						"DividendYield": "2.26"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaMall Trust",
+					"StockType": "0",
+					"AskRealTime": "2.09",
+					"ChangeRealTime": "-0.03",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "2.10",
+						"MarketCapitalization": "7.236B",
+						"DaysLow": "2.08",
+						"DaysHigh": "2.10",
+						"YearLow": "1.865",
+						"YearHigh": "2.26",
+						"Volume": "2.060M",
+						"AverageDailyVolume": "10.371M",
+						"PERatio": "11.91",
+						"DividendYield": "5.11"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaRetail China Trust",
+					"StockType": "0",
+					"AskRealTime": "1.675",
+					"ChangeRealTime": "-0.02",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.70",
+						"MarketCapitalization": "1.383B",
+						"DaysLow": "1.67",
+						"DaysHigh": "1.70",
+						"YearLow": "1.35",
+						"YearHigh": "1.735",
+						"Volume": "70600",
+						"AverageDailyVolume": "688345",
+						"PERatio": "9.55",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaCommercial Trust",
+					"StockType": "0",
+					"AskRealTime": "1.765",
+					"ChangeRealTime": "-0.02",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.76",
+						"MarketCapitalization": "",
+						"DaysLow": "1.75",
+						"DaysHigh": "1.765",
+						"YearLow": "1.45",
+						"YearHigh": "1.935",
+						"Volume": "3.872M",
+						"AverageDailyVolume": "8.353M",
+						"PERatio": "",
+						"DividendYield": "4.74"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaMalls Malaysia Trust",
+					"StockType": "0",
+					"AskRealTime": "1.49",
+					"ChangeRealTime": "0.00",
+					"Currency": "MYR",
+					"Detail": {
+						"Open": "1.49",
+						"MarketCapitalization": "2.633T",
+						"DaysLow": "1.48",
+						"DaysHigh": "1.50",
+						"YearLow": "1.34",
+						"YearHigh": "1.66",
+						"Volume": "389700",
+						"AverageDailyVolume": "1.829M",
+						"PERatio": "",
+						"DividendYield": "5.93"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Ascott Residence Trust",
+					"StockType": "0",
+					"AskRealTime": "1.28",
+					"ChangeRealTime": "-0.005",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.285",
+						"MarketCapitalization": "",
+						"DaysLow": "1.275",
+						"DaysHigh": "1.285",
+						"YearLow": "1.165",
+						"YearHigh": "1.32",
+						"Volume": "188700",
+						"AverageDailyVolume": "1.056M",
+						"PERatio": "",
+						"DividendYield": "3.08"
+					}
+				}
+			]
+		}, {
+			"GroupName": "Singapore Peers",
+			"Stocks": [
+				{
+					"leaf": true,
+					"StockName": "STI",
+					"StockType": "1",
+					"AskRealTime": "3395.36",
+					"ChangeRealTime": "-28.59",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "3395.36",
+						"MarketCapitalization": "",
+						"DaysLow": "3386.93",
+						"DaysHigh": "3398.20",
+						"YearLow": "3053.59",
+						"YearHigh": "3458.14",
+						"Volume": "0",
+						"AverageDailyVolume": "0",
+						"PERatio": "",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "City Development Ltd",
+					"StockType": "0",
+					"AskRealTime": "10.08",
+					"ChangeRealTime": "-0.15",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "10.09",
+						"MarketCapitalization": "9.157B",
+						"DaysLow": "10.02",
+						"DaysHigh": "10.11",
+						"YearLow": "9.07",
+						"YearHigh": "11.18",
+						"Volume": "295700",
+						"AverageDailyVolume": "778046",
+						"PERatio": "12.68",
+						"DividendYield": "1.17"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Wing Tai Holdings Ltd",
+					"StockType": "0",
+					"AskRealTime": "1.745",
+					"ChangeRealTime": "-0.015",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.755",
+						"MarketCapitalization": "1.367B",
+						"DaysLow": "1.74",
+						"DaysHigh": "1.755",
+						"YearLow": "1.57",
+						"YearHigh": "2.08",
+						"Volume": "236800",
+						"AverageDailyVolume": "1.543M",
+						"PERatio": "6.52",
+						"DividendYield": "1.71"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Frasers Centrepoint Ltd",
+					"StockType": "0",
+					"AskRealTime": "1.765",
+					"ChangeRealTime": "-0.015",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.78",
+						"MarketCapitalization": "5.109B",
+						"DaysLow": "1.765",
+						"DaysHigh": "1.78",
+						"YearLow": "1.525",
+						"YearHigh": "2.00",
+						"Volume": "38200",
+						"AverageDailyVolume": "543822",
+						"PERatio": "9.18",
+						"DividendYield": "4.83"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "FTSE ST Real Estate Index",
+					"StockType": "1",
+					"AskRealTime": "800.47",
+					"ChangeRealTime": "-7.38",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "800.47",
+						"MarketCapitalization": "",
+						"DaysLow": "797.35",
+						"DaysHigh": "800.47",
+						"YearLow": "0.00",
+						"YearHigh": "0.00",
+						"Volume": "0",
+						"AverageDailyVolume": "0",
+						"PERatio": "",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaLand Ltd ",
+					"StockType": "0",
+					"AskRealTime": "3.49",
+					"ChangeRealTime": "-0.05",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "3.50",
+						"MarketCapitalization": "14.862B",
+						"DaysLow": "3.48",
+						"DaysHigh": "3.51",
+						"YearLow": "2.68",
+						"YearHigh": "3.71",
+						"Volume": "1.434M",
+						"AverageDailyVolume": "9.307M",
+						"PERatio": "13.67",
+						"DividendYield": "2.26"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "UOL Group Ltd",
+					"StockType": "0",
+					"AskRealTime": "7.61",
+					"ChangeRealTime": "-0.11",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "7.61",
+						"MarketCapitalization": "5.982B",
+						"DaysLow": "7.60",
+						"DaysHigh": "7.63",
+						"YearLow": "5.95",
+						"YearHigh": "8.00",
+						"Volume": "252300",
+						"AverageDailyVolume": "1.074M",
+						"PERatio": "9.58",
+						"DividendYield": "1.95"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Wheelock Properties (S) Ltd",
+					"StockType": "0",
+					"AskRealTime": "1.87",
+					"ChangeRealTime": "+0.005",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.87",
+						"MarketCapitalization": "2.232B",
+						"DaysLow": "1.85",
+						"DaysHigh": "1.87",
+						"YearLow": "1.57",
+						"YearHigh": "1.99",
+						"Volume": "38500",
+						"AverageDailyVolume": "145683",
+						"PERatio": "51.67",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "OUE Ltd",
+					"StockType": "0",
+					"AskRealTime": "2.20",
+					"ChangeRealTime": "-0.01",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "2.20",
+						"MarketCapitalization": "1.993B",
+						"DaysLow": "2.19",
+						"DaysHigh": "2.20",
+						"YearLow": "1.985",
+						"YearHigh": "2.50",
+						"Volume": "85100",
+						"AverageDailyVolume": "344215",
+						"PERatio": "1.83",
+						"DividendYield": "1.36"
+					}
+				}
+			]
+		}, {
+			"GroupName": "China Peers (Listed in HK)",
+			"Stocks": [
+				{
+					"leaf": true,
+					"StockName": "FTSE Bursa Malaysia KLCI",
+					"StockType": "1",
+					"AskRealTime": "1790.59",
+					"ChangeRealTime": "-26.36",
+					"Currency": "MYR",
+					"Detail": {
+						"Open": "1790.59",
+						"MarketCapitalization": "",
+						"DaysLow": "1779.73",
+						"DaysHigh": "1790.59",
+						"YearLow": "1671.82",
+						"YearHigh": "1896.23",
+						"Volume": "0",
+						"AverageDailyVolume": "0",
+						"PERatio": "",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaMalls Malaysia Trust",
+					"StockType": "0",
+					"AskRealTime": "1.49",
+					"ChangeRealTime": "0.00",
+					"Currency": "MYR",
+					"Detail": {
+						"Open": "1.49",
+						"MarketCapitalization": "2.633T",
+						"DaysLow": "1.48",
+						"DaysHigh": "1.50",
+						"YearLow": "1.34",
+						"YearHigh": "1.66",
+						"Volume": "389700",
+						"AverageDailyVolume": "1.829M",
+						"PERatio": "",
+						"DividendYield": "5.93"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Sunway REIT",
+					"StockType": "0",
+					"AskRealTime": "1.64",
+					"ChangeRealTime": "0.00",
+					"Currency": "MYR",
+					"Detail": {
+						"Open": "1.63",
+						"MarketCapitalization": "",
+						"DaysLow": "1.63",
+						"DaysHigh": "1.63",
+						"YearLow": "1.30",
+						"YearHigh": "1.68",
+						"Volume": "25000",
+						"AverageDailyVolume": "1.779M",
+						"PERatio": "",
+						"DividendYield": "4.08"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Pavilion REIT",
+					"StockType": "0",
+					"AskRealTime": "1.49",
+					"ChangeRealTime": "0.00",
+					"Currency": "MYR",
+					"Detail": {
+						"Open": "1.48",
+						"MarketCapitalization": "",
+						"DaysLow": "1.48",
+						"DaysHigh": "1.49",
+						"YearLow": "1.28",
+						"YearHigh": "1.63",
+						"Volume": "11000",
+						"AverageDailyVolume": "759800",
+						"PERatio": "",
+						"DividendYield": "5.21"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "IGB REIT",
+					"StockType": "0",
+					"AskRealTime": "1.33",
+					"ChangeRealTime": "0.00",
+					"Currency": "MYR",
+					"Detail": {
+						"Open": "1.32",
+						"MarketCapitalization": "",
+						"DaysLow": "1.32",
+						"DaysHigh": "1.32",
+						"YearLow": "1.12",
+						"YearHigh": "1.37",
+						"Volume": "26300",
+						"AverageDailyVolume": "1.275M",
+						"PERatio": "",
+						"DividendYield": "5.84"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Hektar REIT",
+					"StockType": "0",
+					"AskRealTime": "1.50",
+					"ChangeRealTime": "0.00",
+					"Currency": "MYR",
+					"Detail": {
+						"Open": "1.50",
+						"MarketCapitalization": "601.0B",
+						"DaysLow": "1.50",
+						"DaysHigh": "1.50",
+						"YearLow": "1.42",
+						"YearHigh": "1.55",
+						"Volume": "68900",
+						"AverageDailyVolume": "62262",
+						"PERatio": "",
+						"DividendYield": "7.00"
+					}
+				}
+			]
+		}, {
+			"GroupName": "Singapore REITS",
+			"Stocks": [
+				{
+					"leaf": true,
+					"StockName": "China Vanke",
+					"StockType": "0",
+					"AskRealTime": "16.38",
+					"ChangeRealTime": "-0.16",
+					"Currency": "HKD",
+					"Detail": {
+						"Open": "16.50",
+						"MarketCapitalization": "180.5B",
+						"DaysLow": "16.20",
+						"DaysHigh": "16.54",
+						"YearLow": "12.84",
+						"YearHigh": "20.35",
+						"Volume": "871556",
+						"AverageDailyVolume": "10.114M",
+						"PERatio": "74.17",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Henderson Land",
+					"StockType": "0",
+					"AskRealTime": "50.85",
+					"ChangeRealTime": "-0.50",
+					"Currency": "HKD",
+					"Detail": {
+						"Open": "50.80",
+						"MarketCapitalization": "150.8B",
+						"DaysLow": "50.75",
+						"DaysHigh": "51.10",
+						"YearLow": "36.8182",
+						"YearHigh": "57.20",
+						"Volume": "409904",
+						"AverageDailyVolume": "2.635M",
+						"PERatio": "9.45",
+						"DividendYield": "2.11"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Sun Hung Kai",
+					"StockType": "0",
+					"AskRealTime": "120.10",
+					"ChangeRealTime": "-1.60",
+					"Currency": "HKD",
+					"Detail": {
+						"Open": "121.40",
+						"MarketCapitalization": "330.4B",
+						"DaysLow": "119.60",
+						"DaysHigh": "121.40",
+						"YearLow": "90.35",
+						"YearHigh": "129.40",
+						"Volume": "695191",
+						"AverageDailyVolume": "3.921M",
+						"PERatio": "9.78",
+						"DividendYield": "2.75"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "China Overseas Land",
+					"StockType": "0",
+					"AskRealTime": "22.60",
+					"ChangeRealTime": "-0.25",
+					"Currency": "HKD",
+					"Detail": {
+						"Open": "22.70",
+						"MarketCapitalization": "184.3B",
+						"DaysLow": "22.55",
+						"DaysHigh": "22.80",
+						"YearLow": "17.52",
+						"YearHigh": "26.70",
+						"Volume": "1.463M",
+						"AverageDailyVolume": "20.854M",
+						"PERatio": "8.09",
+						"DividendYield": "2.15"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Kerry Property",
+					"StockType": "0",
+					"AskRealTime": "25.30",
+					"ChangeRealTime": "-0.25",
+					"Currency": "HKD",
+					"Detail": {
+						"Open": "25.50",
+						"MarketCapitalization": "36.470B",
+						"DaysLow": "25.05",
+						"DaysHigh": "25.50",
+						"YearLow": "22.55",
+						"YearHigh": "29.55",
+						"Volume": "209500",
+						"AverageDailyVolume": "1.713M",
+						"PERatio": "2.79",
+						"DividendYield": "3.33"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "China Resources Land",
+					"StockType": "0",
+					"AskRealTime": "19.28",
+					"ChangeRealTime": "-0.28",
+					"Currency": "HKD",
+					"Detail": {
+						"Open": "19.26",
+						"MarketCapitalization": "112.3B",
+						"DaysLow": "19.22",
+						"DaysHigh": "19.42",
+						"YearLow": "13.62",
+						"YearHigh": "23.60",
+						"Volume": "1.586M",
+						"AverageDailyVolume": "12.246M",
+						"PERatio": "7.75",
+						"DividendYield": "2.30"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Country Garden",
+					"StockType": "0",
+					"AskRealTime": "2.98",
+					"ChangeRealTime": "-0.01",
+					"Currency": "HKD",
+					"Detail": {
+						"Open": "2.97",
+						"MarketCapitalization": "54.702B",
+						"DaysLow": "2.97",
+						"DaysHigh": "2.99",
+						"YearLow": "2.7789",
+						"YearHigh": "4.1585",
+						"Volume": "297049",
+						"AverageDailyVolume": "28.824M",
+						"PERatio": "5.08",
+						"DividendYield": "7.07"
+					}
+				}
+			]
+		}, {
+			"GroupName": "Singapore Hospitality REITS",
+			"Stocks": [
+				{
+					"leaf": true,
+					"StockName": "FTSE REITs Index",
+					"StockType": "1",
+					"AskRealTime": "801.91",
+					"ChangeRealTime": "-9.42",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "801.91",
+						"MarketCapitalization": "",
+						"DaysLow": "797.87",
+						"DaysHigh": "801.91",
+						"YearLow": "0.00",
+						"YearHigh": "0.00",
+						"Volume": "0",
+						"AverageDailyVolume": "0",
+						"PERatio": "",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaMall Trust",
+					"StockType": "0",
+					"AskRealTime": "2.09",
+					"ChangeRealTime": "-0.03",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "2.10",
+						"MarketCapitalization": "7.236B",
+						"DaysLow": "2.08",
+						"DaysHigh": "2.10",
+						"YearLow": "1.865",
+						"YearHigh": "2.26",
+						"Volume": "2.060M",
+						"AverageDailyVolume": "10.371M",
+						"PERatio": "11.91",
+						"DividendYield": "5.11"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaCommercial Trust",
+					"StockType": "0",
+					"AskRealTime": "1.765",
+					"ChangeRealTime": "-0.02",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.76",
+						"MarketCapitalization": "",
+						"DaysLow": "1.75",
+						"DaysHigh": "1.765",
+						"YearLow": "1.45",
+						"YearHigh": "1.935",
+						"Volume": "3.872M",
+						"AverageDailyVolume": "8.353M",
+						"PERatio": "",
+						"DividendYield": "4.74"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CapitaRetail China Trust",
+					"StockType": "0",
+					"AskRealTime": "1.675",
+					"ChangeRealTime": "-0.02",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.70",
+						"MarketCapitalization": "1.383B",
+						"DaysLow": "1.67",
+						"DaysHigh": "1.70",
+						"YearLow": "1.35",
+						"YearHigh": "1.735",
+						"Volume": "70600",
+						"AverageDailyVolume": "688345",
+						"PERatio": "9.55",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Frasers Commercial Trust",
+					"StockType": "0",
+					"AskRealTime": "1.49",
+					"ChangeRealTime": "-0.015",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.495",
+						"MarketCapitalization": "1.012B",
+						"DaysLow": "1.485",
+						"DaysHigh": "1.50",
+						"YearLow": "1.225",
+						"YearHigh": "1.515",
+						"Volume": "223900",
+						"AverageDailyVolume": "874445",
+						"PERatio": "11.23",
+						"DividendYield": "4.77"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Frasers Centrepoint Trust",
+					"StockType": "0",
+					"AskRealTime": "2.01",
+					"ChangeRealTime": "-0.04",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "2.02",
+						"MarketCapitalization": "",
+						"DaysLow": "2.00",
+						"DaysHigh": "2.02",
+						"YearLow": "1.705",
+						"YearHigh": "2.09",
+						"Volume": "584300",
+						"AverageDailyVolume": "1.268M",
+						"PERatio": "",
+						"DividendYield": "5.47"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Suntec REIT",
+					"StockType": "0",
+					"AskRealTime": "1.905",
+					"ChangeRealTime": "-0.035",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.915",
+						"MarketCapitalization": "",
+						"DaysLow": "1.90",
+						"DaysHigh": "1.915",
+						"YearLow": "1.615",
+						"YearHigh": "2.01",
+						"Volume": "2.556M",
+						"AverageDailyVolume": "6.767M",
+						"PERatio": "",
+						"DividendYield": "4.22"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Mapletree Commercial Trust",
+					"StockType": "0",
+					"AskRealTime": "1.52",
+					"ChangeRealTime": "-0.03",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.535",
+						"MarketCapitalization": "",
+						"DaysLow": "1.515",
+						"DaysHigh": "1.535",
+						"YearLow": "1.18",
+						"YearHigh": "1.57",
+						"Volume": "609500",
+						"AverageDailyVolume": "1.918M",
+						"PERatio": "",
+						"DividendYield": "5.15"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Mapletree Greater China Commercial Trust",
+					"StockType": "0",
+					"AskRealTime": "1.035",
+					"ChangeRealTime": "-0.02",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.045",
+						"MarketCapitalization": "2.808B",
+						"DaysLow": "1.03",
+						"DaysHigh": "1.045",
+						"YearLow": "0.81",
+						"YearHigh": "1.07",
+						"Volume": "1.647M",
+						"AverageDailyVolume": "3.221M",
+						"PERatio": "7.93",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Ascendas REIT",
+					"StockType": "0",
+					"AskRealTime": "2.47",
+					"ChangeRealTime": "-0.04",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "2.46",
+						"MarketCapitalization": "",
+						"DaysLow": "2.44",
+						"DaysHigh": "2.47",
+						"YearLow": "2.13",
+						"YearHigh": "2.63",
+						"Volume": "5.523M",
+						"AverageDailyVolume": "8.432M",
+						"PERatio": "",
+						"DividendYield": "4.29"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Keppel REIT",
+					"StockType": "0",
+					"AskRealTime": "1.23",
+					"ChangeRealTime": "-0.01",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.235",
+						"MarketCapitalization": "",
+						"DaysLow": "1.225",
+						"DaysHigh": "1.235",
+						"YearLow": "1.13",
+						"YearHigh": "1.305",
+						"Volume": "704100",
+						"AverageDailyVolume": "4.549M",
+						"PERatio": "",
+						"DividendYield": "5.04"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "OUE Commercial Trust",
+					"StockType": "0",
+					"AskRealTime": "0.80",
+					"ChangeRealTime": "0.00",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "0.80",
+						"MarketCapitalization": "696.2M",
+						"DaysLow": "0.80",
+						"DaysHigh": "0.80",
+						"YearLow": "0.78",
+						"YearHigh": "0.835",
+						"Volume": "783000",
+						"AverageDailyVolume": "478891",
+						"PERatio": "2.96",
+						"DividendYield": "5.95"
+					}
+				}
+			]
+		}, {
+			"GroupName": "Malaysia REITS",
+			"Stocks": [
+				{
+					"leaf": true,
+					"StockName": "FTSE REITs Index",
+					"StockType": "1",
+					"AskRealTime": "801.91",
+					"ChangeRealTime": "-9.42",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "801.91",
+						"MarketCapitalization": "",
+						"DaysLow": "797.87",
+						"DaysHigh": "801.91",
+						"YearLow": "0.00",
+						"YearHigh": "0.00",
+						"Volume": "0",
+						"AverageDailyVolume": "0",
+						"PERatio": "",
+						"DividendYield": ""
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Ascott Residence Trust",
+					"StockType": "0",
+					"AskRealTime": "1.28",
+					"ChangeRealTime": "-0.005",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.285",
+						"MarketCapitalization": "",
+						"DaysLow": "1.275",
+						"DaysHigh": "1.285",
+						"YearLow": "1.165",
+						"YearHigh": "1.32",
+						"Volume": "188700",
+						"AverageDailyVolume": "1.056M",
+						"PERatio": "",
+						"DividendYield": "3.08"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "CDL Hospitality Trust",
+					"StockType": "0",
+					"AskRealTime": "1.735",
+					"ChangeRealTime": "-0.015",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "1.75",
+						"MarketCapitalization": "1.704B",
+						"DaysLow": "1.71",
+						"DaysHigh": "1.75",
+						"YearLow": "1.60",
+						"YearHigh": "1.835",
+						"Volume": "329700",
+						"AverageDailyVolume": "1.145M",
+						"PERatio": "14.00",
+						"DividendYield": "6.28"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "OUE Hospitality Trust",
+					"StockType": "0",
+					"AskRealTime": "0.945",
+					"ChangeRealTime": "0.00",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "0.945",
+						"MarketCapitalization": "1.249B",
+						"DaysLow": "0.94",
+						"DaysHigh": "0.945",
+						"YearLow": "0.825",
+						"YearHigh": "0.95",
+						"Volume": "51600",
+						"AverageDailyVolume": "1.283M",
+						"PERatio": "15.75",
+						"DividendYield": "7.13"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Far East Hospitality Trust",
+					"StockType": "0",
+					"AskRealTime": "0.805",
+					"ChangeRealTime": "0.00",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "0.81",
+						"MarketCapitalization": "1.420B",
+						"DaysLow": "0.80",
+						"DaysHigh": "0.81",
+						"YearLow": "0.78",
+						"YearHigh": "0.905",
+						"Volume": "158400",
+						"AverageDailyVolume": "476446",
+						"PERatio": "20.00",
+						"DividendYield": "6.42"
+					}
+				}, {
+					"leaf": true,
+					"StockName": "Ascendas Hospitality Trust",
+					"StockType": "0",
+					"AskRealTime": "0.695",
+					"ChangeRealTime": "0.00",
+					"Currency": "SGD",
+					"Detail": {
+						"Open": "0.69",
+						"MarketCapitalization": "767.3M",
+						"DaysLow": "0.69",
+						"DaysHigh": "0.69",
+						"YearLow": "0.665",
+						"YearHigh": "0.77",
+						"Volume": "4700",
+						"AverageDailyVolume": "627335",
+						"PERatio": "24.64",
+						"DividendYield": "0.69"
+					}
+				}
+			]
+		}
+	],
+	"result": true,
+	"ErrorCode": null
+}

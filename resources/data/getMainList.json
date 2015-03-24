@@ -1,0 +1,34 @@
+{
+	"rows": [{
+			"Image": "resources/images/main5.png",
+			"LastVisit": "",
+			"Cont": "Stock Prices",
+			"Status": "resources/images/main5_Dir.png"
+		}, {
+			"Image": "resources/images/main1.png",
+			"LastVisit": "",
+			"Cont": "News Feed",
+			"Status": "resources/images/main1_Dir.png"
+		}, {
+			"Image": "resources/images/main2.png",
+			"LastVisit": "",
+			"Cont": "Research Reports",
+			"Status": "resources/images/main2_Dir.png"
+		}, {
+			"Image": "resources/images/main3.png",
+			"LastVisit": "",
+			"Cont": "Consultancy Reports",
+			"Status": "resources/images/main3_Dir.png"
+		}, {
+			"Image": "resources/images/main4.png",
+			"LastVisit": "",
+			"Cont": "Innovation",
+			"Status": "resources/images/main4_Dir.png"
+		}, {
+			"Image": "resources/images/main6.png",
+			"LastVisit": "",
+			"Cont": "Key Events Calendar",
+			"Status": "resources/images/main6_Dir.png"
+		}
+	]
+}

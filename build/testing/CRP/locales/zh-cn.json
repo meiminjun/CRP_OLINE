@@ -1,0 +1,90 @@
+{
+    "months" : {
+        "1"  : "January",
+        "2"  : "February",
+        "3"  : "March",
+        "4"  : "April",
+        "5"  : "May",
+        "6"  : "June",
+        "7"  : "July",
+        "8"  : "August",
+        "9"  : "September",
+        "10" : "October",
+        "11" : "November",
+        "12" : "December"
+    },
+    "settingview" : {
+    	"title" : "Settings",
+    	"fieldset" : {
+	    	"title" : "Language",
+	    	"instructions" : "Setting Language"
+    	}
+    },
+    "pullRefresh" : {
+    	"loadingText" : "Loading...",
+    	"lastUpdatedText" : "Last update time",
+    	"pullRefreshText" : "Pull down to refresh...",
+    	"releaseRefreshText" : "Release to refresh..."
+    },
+    "listPaging" : {
+    	"loadMoreText" : "Load More...",
+		"noMoreRecordsText" : "No More Records"
+    },
+    "numericalPicker" : {
+	    "doneButtonText" : "OK",
+    	"cancelButtonText" : "Cancel"
+    },
+    "actionSheet" :{
+        "cancel" : "Cancel",
+        "deleteDraft" : "Delete Draft",
+        "Photograph" : "Take photo",
+        "Album" : "Choose from library"
+    },
+    "tapeSheet" :{
+        "tapeBtnText" : "Start recording",
+        "playAudioText" : "play",
+        "title" : "Recording:20 seconds left"
+    },
+    "workOrderDetails" : {
+    	"title" : "Detailed Information"
+    },
+    "workOrderDetailsChild" : {
+    	"unitText" : "Unit Information",
+    	"unitNameLabel" : "Name",
+    	"businessTypeLabel" : "Business Type",
+    	"oContactPersonLabel" : "OPS Contact Person",
+    	"fContactPersonLabel" : "Finance Contact Person",
+    	"floorPlanLabel" : "Floor Plan",
+    	"tenantText" : "Tenant Information",
+    	"tenantNameLabel" : "Name",
+    	"contactNumberLabel" : "Contact Number",
+    	"mobileNumberLabel" : "Mobile Number",
+    	"emailLabel" : "Email",
+    	"addressLabel" : "Address",
+    	"preInspection"  : "Pre-inspection pictures",
+    	"possessionDateLabel" : "Date of possession",
+    	"periodLabel" : "Lease Period",
+    	"areaLabel" : "Lease Area",
+    	"contactsLabel" : "Contacts"
+    },
+    "modifyView" : {
+    	"title" : "Modify",
+    	"sendText" : "Send",
+    	"placeHolder" : "Comments"
+    },
+    "signatureView" : {
+    	"title" : "Signature",
+    	"saveText" : "Save"
+    },
+    "postilImgList" : {
+    	"title" : "Floor Plan"
+    },
+    "projectDetail" : {
+    	"contactMallBtnText" : "Call OM"
+    },
+    "orderIndex" : {
+    	"emptyText" : "没有相关数据.",
+    	"loadMoreText" : "加载更多...",
+		"noMoreRecordsText" : "暂无更多记录"
+    }
+}
